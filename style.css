@@ -1,0 +1,15 @@
+*{
+    
+    
+    color: rgb(33,37,41)
+}
+body{
+    background-image: url(images.jpg);
+}
+.icon{
+    background-color: rgba(33, 37, 41, 0);
+    width:auto; 
+    height:auto;
+    height:30px;
+}
+
